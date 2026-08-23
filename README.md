@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Abhinav09060/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Abhinav09060/LeetCode/tree/master/0877-stone-game) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Abhinav09060/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1406-stone-game-iii](https://github.com/Abhinav09060/LeetCode/tree/master/1406-stone-game-iii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Abhinav09060/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3731-find-missing-elements](https://github.com/Abhinav09060/LeetCode/tree/master/3731-find-missing-elements) |
