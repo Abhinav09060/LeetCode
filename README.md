@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Abhinav09060/LeetCode/tree/master/0877-stone-game) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Abhinav09060/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1406-stone-game-iii](https://github.com/Abhinav09060/LeetCode/tree/master/1406-stone-game-iii) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Abhinav09060/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Abhinav09060/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3731-find-missing-elements](https://github.com/Abhinav09060/LeetCode/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
@@ -91,4 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Abhinav09060/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Two Pointers
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Abhinav09060/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Abhinav09060/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
