@@ -1,5 +1,6 @@
 class Solution {
     public void rotate(int[][] matrix) {
+        // OPTIMAL
         for(int i=0;i<matrix.length;i++){
             for(int j=i+1;j<matrix.length;j++){
                 int temp = matrix[i][j];
@@ -14,5 +15,15 @@ class Solution {
                 matrix[i][matrix.length-1-j]  = temp;
             }
         }
+
+
+        //BRUTE FORCE
+        // int ans[][] = new int[matrix.length][matrix.length];
+        // for(int i=0;i<matrix.length;i++){
+        //     for(int j=0;j<matrix.length;j++){
+        //         ans[j][matrix.length - 1 - i] = matrix[i][j];
+        //     }
+        // }
+        // return ans;
     }
 }
