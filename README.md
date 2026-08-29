@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Abhinav09060/LeetCode/tree/master/0048-rotate-image) |
 | [0486-predict-the-winner](https://github.com/Abhinav09060/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Abhinav09060/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Abhinav09060/LeetCode/tree/master/1406-stone-game-iii) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Abhinav09060/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Abhinav09060/LeetCode/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/Abhinav09060/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Abhinav09060/LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -111,5 +113,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Abhinav09060/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Abhinav09060/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
