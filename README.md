@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Abhinav09060/LeetCode/tree/master/0001-two-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhinav09060/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/Abhinav09060/LeetCode/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Abhinav09060/LeetCode/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/Abhinav09060/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Abhinav09060/LeetCode/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/Abhinav09060/LeetCode/tree/master/0118-pascals-triangle) |
