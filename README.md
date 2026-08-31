@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Abhinav09060/LeetCode/tree/master/0015-3sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhinav09060/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/Abhinav09060/LeetCode/tree/master/3731-find-missing-elements) |
 ## Counting
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abhinav09060/LeetCode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Abhinav09060/LeetCode/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/Abhinav09060/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Abhinav09060/LeetCode/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/Abhinav09060/LeetCode/tree/master/0118-pascals-triangle) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Abhinav09060/LeetCode/tree/master/0015-3sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Abhinav09060/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
