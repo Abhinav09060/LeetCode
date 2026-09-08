@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Abhinav09060/LeetCode/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhinav09060/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Abhinav09060/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3870-count-commas-in-range](https://github.com/Abhinav09060/LeetCode/tree/master/3870-count-commas-in-range) |
 ## String
 |  |
 | ------- |
