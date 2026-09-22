@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Abhinav09060/LeetCode/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhinav09060/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Abhinav09060/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/Abhinav09060/LeetCode/tree/master/3525-find-x-value-of-array-ii) |
 | [3870-count-commas-in-range](https://github.com/Abhinav09060/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Abhinav09060/LeetCode/tree/master/3871-count-commas-in-range-ii) |
 ## String
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Abhinav09060/LeetCode/tree/master/1406-stone-game-iii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Abhinav09060/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Abhinav09060/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3525-find-x-value-of-array-ii](https://github.com/Abhinav09060/LeetCode/tree/master/3525-find-x-value-of-array-ii) |
 | [3731-find-missing-elements](https://github.com/Abhinav09060/LeetCode/tree/master/3731-find-missing-elements) |
 | [3903-smallest-stable-index-i](https://github.com/Abhinav09060/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Abhinav09060/LeetCode/tree/master/3904-smallest-stable-index-ii) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Abhinav09060/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3525-find-x-value-of-array-ii](https://github.com/Abhinav09060/LeetCode/tree/master/3525-find-x-value-of-array-ii) |
 ## Ordered Set
 |  |
 | ------- |
