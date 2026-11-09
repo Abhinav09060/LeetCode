@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Abhinav09060/LeetCode/tree/master/0877-stone-game) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Abhinav09060/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1406-stone-game-iii](https://github.com/Abhinav09060/LeetCode/tree/master/1406-stone-game-iii) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Abhinav09060/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Abhinav09060/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Abhinav09060/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3525-find-x-value-of-array-ii](https://github.com/Abhinav09060/LeetCode/tree/master/3525-find-x-value-of-array-ii) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Abhinav09060/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Abhinav09060/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Two Pointers
 |  |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Abhinav09060/LeetCode/tree/master/0054-spiral-matrix) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Abhinav09060/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Abhinav09060/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Matrix
 |  |
@@ -165,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Abhinav09060/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Abhinav09060/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 <!---LeetCode Topics End-->
